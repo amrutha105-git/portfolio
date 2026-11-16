@@ -1,0 +1,42 @@
+.projects {
+    padding: 70px 50px;
+    text-align: center;
+    background-color: #111827;
+}
+
+.projects h1 {
+    color: #60a5fa;
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.project-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.project-card {
+    background-color: #1f2937;
+    color: white;
+    width: 350px;
+    padding: 25px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.project-card h2 {
+    color: #60a5fa;
+    margin-bottom: 15px;
+}
+
+.project-card p {
+    color: #d1d5db;
+    line-height: 1.7;
+}
+
+.project-card h4 {
+    margin-top: 20px;
+    color: #93c5fd;
+}
